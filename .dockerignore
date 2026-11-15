@@ -1,0 +1,17 @@
+# secrets
+.env
+.env.*
+
+# local Python 
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# others
+tests/
+discover_tms.py
+*.md
+.git/
+.gitignore
+.DS_Store
